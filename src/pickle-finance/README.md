@@ -13,3 +13,9 @@ You will need to install foundry to run the exploit. Link for installtion [found
 ```sh
 forge test -vv --fork-url <YOUR_API_PROVER> --fork-block-number 11303122 -m pickle
 ```
+
+### Acknowledgements
+This POC was made possible & inspired by the whitehats that were present in the war room when the hack took place.
+
+- [`Benteg`](https://github.com/banteg/evil-jar) for his awesome detailed explanation.
+- [`Samczsun`](https://github.com/banteg/evil-jar/blob/master/reference/samczsun.sol) for his version of POC in solidity.
