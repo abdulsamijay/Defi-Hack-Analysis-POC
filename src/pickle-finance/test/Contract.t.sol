@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.6.0;
 
-import "../src/Exploit.sol";
+import "../Exploit.sol";
 
 interface IRedeem {
     function redeemUnderlying(uint256) external;
@@ -16,7 +16,7 @@ contract ContractTest is Test {
 
     function setUp() public {}
 
-    function testExample() public {
+    function test_pickle() public {
         e = new Exploit();
         vm.startPrank(address(1337), address(1337));
         e.exploit();
