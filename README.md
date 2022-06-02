@@ -24,6 +24,7 @@ forge build
 More hack POCs will be added to this repo.
 
 - [`Pickle Finance Hack POC`](./src/pickle-finance/)
+- [`Harvest Finance Hack POC`](./src/harvest-finance/)
 
 
 ## :tada: POC not in this Repo
