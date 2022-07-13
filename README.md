@@ -23,6 +23,7 @@ forge build
 ## :tada: POCs Covered in this repo
 More hack POCs will be added to this repo.
 
+- [`XCarnival NFT Lending`](./src/XCarnival/)
 - [`Inverse Finance Hack POC`](./src/Inverse-finanace/)
 - [`Pickle Finance Hack POC`](./src/pickle-finance/)
 - [`Harvest Finance Hack POC`](./src/harvest-finance/)
