@@ -3,7 +3,7 @@ pragma solidity 0.8.13;
 
 import "../ParityKill.sol";
 
-// Hack @ block 4501735 4501968
+// Hack @ block 4501735
 
 contract ContractTest is Test {
     ParityKill kill;
