@@ -23,7 +23,7 @@ forge build
 ## :tada: POCs Covered in this repo
 More hack POCs will be added to this repo.
 
-- [`The DAO Hack`](./src/The-dao-hack/)
+- [`The DAO Hack`](./src/The-Dao-hack/)
 - [`XCarnival NFT Lending`](./src/XCarnival/)
 - [`Inverse Finance Hack POC`](./src/Inverse-finanace/)
 - [`Pickle Finance Hack POC`](./src/pickle-finance/)
