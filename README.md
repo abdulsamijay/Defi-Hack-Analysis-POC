@@ -26,6 +26,7 @@ More hack POCs will be added to this repo.
 - [`The DAO Hack`](./src/The-Dao-hack/)
 - [`Parity - Accidently killed it!`](./src/The-Praity-Kill/)
 - [`XCarnival NFT Lending`](./src/XCarnival/)
+- [`Optimism : Wintermute Multisig`](./src/Optimism-Wintermute/)
 - [`Inverse Finance Hack POC`](./src/Inverse-finanace/)
 - [`Pickle Finance Hack POC`](./src/pickle-finance/)
 - [`Harvest Finance Hack POC`](./src/harvest-finance/)
