@@ -1,4 +1,4 @@
-# Harvest Finance Hack Analysis & POC 
+# Inverse Finance Hack Analysis & POC 
 
 ## Getting Started
 
