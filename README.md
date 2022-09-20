@@ -28,7 +28,7 @@ More hack POCs will be added to this repo.
 - [XCarnival NFT Lending](./src/XCarnival/)
 - [Optimism : Wintermute Multisig](./src/Optimism-Wintermute/)
 - [Inverse Finance Hack POC](./src/Inverse-finanace/)
-- [Pickle Finance Hack POC`(./src/pickle-finance/)
+- [Pickle Finance Hack POC](./src/pickle-finance/)
 - [Harvest Finance Hack POC](./src/harvest-finance/)
 - [Beanstalk Protocol Hack POC](https://github.com/abdulsamijay/Beanstalk-Exploit-POC)
 - [Rari-Capital Fuse Hack POC](https://github.com/abdulsamijay/Rari-Capital-Exploit-POC)
