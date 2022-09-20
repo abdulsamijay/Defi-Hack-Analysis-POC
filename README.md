@@ -23,14 +23,12 @@ forge build
 ## :tada: POCs Covered in this repo
 More hack POCs will be added to this repo.
 
-- [`The DAO Hack`](./src/The-Dao-hack/)
-- [`Parity - Accidently killed it!`](./src/The-Praity-Kill/)
-- [`XCarnival NFT Lending`](./src/XCarnival/)
-- [`Optimism : Wintermute Multisig`](./src/Optimism-Wintermute/)
-- [`Inverse Finance Hack POC`](./src/Inverse-finanace/)
-- [`Pickle Finance Hack POC`](./src/pickle-finance/)
-- [`Harvest Finance Hack POC`](./src/harvest-finance/)
-
-## :tada: POC not in this Repo
-- [`Beanstalk Protocol Hack POC`](https://github.com/abdulsamijay/Beanstalk-Exploit-POC)
-- [`Rari-Capital Fuse Hack POC`](https://github.com/abdulsamijay/Rari-Capital-Exploit-POC)
+- [The DAO Hack](./src/The-Dao-hack/)
+- [Parity - Accidently killed it!](./src/The-Praity-Kill/)
+- [XCarnival NFT Lending](./src/XCarnival/)
+- [Optimism : Wintermute Multisig](./src/Optimism-Wintermute/)
+- [Inverse Finance Hack POC](./src/Inverse-finanace/)
+- [Pickle Finance Hack POC`(./src/pickle-finance/)
+- [Harvest Finance Hack POC](./src/harvest-finance/)
+- [Beanstalk Protocol Hack POC](https://github.com/abdulsamijay/Beanstalk-Exploit-POC)
+- [Rari-Capital Fuse Hack POC](https://github.com/abdulsamijay/Rari-Capital-Exploit-POC)
