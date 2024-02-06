@@ -1,8 +1,8 @@
-# Harvest Finance Hack Analysis & POC 
+# Abracadabra Money - Hack Analysis & PoC 
 
 ## Getting Started
 
-This is a POC of Harvest Finance hack that took place on Ethereum at block 11129514, where the hacker walked away with around ~$33M exploiting protocol.
+This is a PoC for Abracadabra Money exploit that took place at block 19118659 of the mainnet, where the protocol lost around ~$6.5M due to precision errors, commonly known as rounding errors, causing the manipulation of state variables the held the security intact.
 
 ### Pre-requisites
 
@@ -10,8 +10,9 @@ You will need to install foundry to run the exploit. Link for installtion [found
 
 
 - Run the POC, I am assuming you have already cloned & built the repo.
+
 ```sh
 forge clean
 
-forge test -vv --fork-url <YOUR_API_PROVER> --fork-block-number 11129513 -m harvest
+forge test --match-test test_abracadbra -vvv --fork-url https://eth-mainnet.g.alchemy.com/v2/YOUR_KEY_HERE --fork-block-number 19118659
 ```
